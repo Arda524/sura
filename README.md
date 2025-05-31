@@ -34,18 +34,11 @@ Professional PUBG Mobile player and content creator with a passion for competiti
 | Tuesday | 5:00 PM - 9:00 PM | Special Events |
 | Wednesday | 5:00 PM - 9:00 PM | Training Sessions |
 
-## 🎬 Featured Videos
-
-- [30 KILLS SOLO VS SQUAD | PUBG Mobile](https://www.youtube.com/watch?v=QB8JV3H3w5A)
-- [SNIPER MONTAGE | PUBG Mobile](https://www.youtube.com/watch?v=egfgtCOSm4U)
-- [HOW TO WIN EVERY GUNFIGHT](https://www.youtube.com/watch?v=gCvBD7JBG0w)
-
 ## 🛠️ Setup
 
 ### Gaming Setup
-- 📱 Device: [Your Device]
-- 🎧 Headphones: [Your Headphones]
-- 🎮 Controller: [Your Controller if any]
+- 📱 Device: [Ipad M.4]
+- 🎧 Headphones: [Rog]
 
 ### Streaming Setup
 - 🎥 Capture Card: [Your Capture Card]
