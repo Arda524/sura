@@ -68,4 +68,4 @@ If you enjoy the content and want to support the stream:
 
 ---
 
-<p align="center">Made with ❤️ by PRO PLAYER</p> 
+<p align="center">Made with ❤️ by Ardawan M Amin </p> 
